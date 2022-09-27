@@ -1,0 +1,17 @@
+
+
+
+1. template string
+2. Tarnary Operator, logical and or (&&, ||)
+3. Array destructuring,spreading, optional chaining
+5. Arrow Functions
+6. forEach, map, Filter, Find, reduce
+
+
+* we use ternary operator to execute if else statement in one line basically
+
+*truthy/ falsy values
+truthy = number, [], string, {}, true;
+false = undefined, null, 0, false, NaN
+
+*to be secure we use optional chaining in object
